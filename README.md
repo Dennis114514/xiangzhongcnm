@@ -104,7 +104,7 @@
     </tr>
     <tr>
         <td>性别</td>
-        <td>女</td><td bgcolor="Pink">rgb(255,0,0)</td>
+        <td>女</td>
         <td>女</td>
         <td>类人</td>
     </tr>
