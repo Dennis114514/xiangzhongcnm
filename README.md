@@ -13,9 +13,9 @@
 
 # 编辑说明
 ## 网络加速
-不加速也能用，但不是很稳定，如果你觉得实在太卡就可以试试下面的方法。
-1.可以使用普通的梯子加速
-2.可以使用watt toolkit加速（百度可以直接搜到）
+不加速也能用，但不是很稳定，如果你觉得实在太卡就可以试试下面的方法。  
+1.可以使用普通的梯子加速  
+2.可以使用watt toolkit加速（百度可以直接搜到）  
 3.在浏览器中把链接最前面的github改成kkgithub（不推荐，毕竟是个第三方网站）
 ## 注册账号
 首先准备好一个邮箱，QQ邮箱就可以。打开[Github首页](github.com)
@@ -92,163 +92,33 @@
 
 [预测一波原神5.0-5.8的节奏是什么？ - 知乎](https://www.zhihu.com/question/664249498/answer/3594198236)
 
-# 三位老师对比
+# 三位老师友好公平对比
 
-<table border="1">
-    <tr>
-        <td style="background-color: #00000000;"></td>
-        <td style="background-color: #00000000;">杨吉华</td>
-        <td style="background-color: #00000000;">严媛</td>
-        <td style="background-color: #00000000;">胡蓉</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">任教科目</td>
-        <td style="background-color: #00000000;">物理</td>
-        <td style="background-color: #00000000;">英语</td>
-        <td style="background-color: #00000000;">英语</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">籍贯</td>
-        <td style="background-color: #00000000;">山东日照</td>
-        <td style="background-color: #00000000;">江苏盐城</td>
-        <td style="background-color: #00000000;">安徽淮北</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">学历</td>
-        <td style="background-color: #00000000;">本科</td>
-        <td style="background-color: #00000000;">本科</td>
-        <td style="background-color: #00000000;">本科</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">性别</td>
-        <td style="background-color: #D04617;">女</td>
-        <td style="background-color: #D04617;">女</td>
-        <td style="background-color: #00000000;">类人</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">职称</td>
-        <td style="background-color: #D04617;">高级</td>
-        <td style="background-color: #FFC000;">一级</td>
-        <td style="background-color: #FFC000;">一级</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">毕业院校</td>
-        <td style="background-color: #FFC000;">苏州科技大学</td>
-        <td style="background-color: #D04617;">南京师范大学</td>
-        <td style="background-color: #00000000;">淮北师范大学</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">交通方式</td>
-        <td style="background-color: #FFC000;">大众</td>
-        <td style="background-color: #D04617;">凯迪拉克</td>
-        <td style="background-color: #00000000;">电瓶车</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">手机品牌</td>
-        <td style="background-color: #00000000;">iphone14</td>
-        <td style="background-color: #D04617;">iphone17+华为purax</td>
-        <td style="background-color: #FFC000;">华为pura70</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">电脑品牌</td>
-        <td style="background-color: #FFC000;">联想</td>
-        <td style="background-color: #D04617;">苹果</td>
-        <td style="background-color: #00000000;">杂牌</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">预估年收入</td>
-        <td style="background-color: #D04617;">35+</td>
-        <td style="background-color: #FFC000;">20+</td>
-        <td style="background-color: #00000000;">18+</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">任教最好班型</td>
-        <td style="background-color: #D04617;">创新班</td>
-        <td style="background-color: #FFC000;">小班</td>
-        <td style="background-color: #00000000;">强化班</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">担任最高职务</td>
-        <td style="background-color: #D04617;">培优部物理组组长</td>
-        <td style="background-color: #FFC000;">高一英语组组长</td>
-        <td style="background-color: #00000000;">班主任</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">最高荣誉称号</td>
-        <td style="background-color: #D04617;">江苏省优秀教师</td>
-        <td style="background-color: #FFC000;">盐城市英语教学能手</td>
-        <td style="background-color: #00000000;">响中英语骨干教师</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">第二荣誉称号</td>
-        <td style="background-color: #D04617;">盐城市物理教学能手</td>
-        <td style="background-color: #FFC000;">响中英语骨干教师</td>
-        <td style="background-color: #00000000;">无</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">第三荣誉称号</td>
-        <td style="background-color: #D04617;">盐城市四好教师代表</td>
-        <td style="background-color: #FFC000;">响中教科先进工作者</td>
-        <td style="background-color: #00000000;">无</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">第四荣誉称号</td>
-        <td style="background-color: #D04617;">响水县物理学科带头人</td>
-        <td style="background-color: #00000000;">无</td>
-        <td style="background-color: #00000000;">无</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">网络影响力</td>
-        <td style="background-color: #D04617;">多个本人词条</td>
-        <td style="background-color: #FFC000;">百度可查</td>
-        <td style="background-color: #00000000;">全国可飞</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">特长</td>
-        <td style="background-color: #D04617;">教学</td>
-        <td style="background-color: #D04617;">教学</td>
-        <td style="background-color: #00000000;">胡说八道</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">学生评价</td>
-        <td style="background-color: #D04617;">A+</td>
-        <td style="background-color: #FFC000;">A</td>
-        <td style="background-color: #00000000;">E-</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">家长评价</td>
-        <td style="background-color: #D04617;">响中物理第一</td>
-        <td style="background-color: #FFC000;">责任心强</td>
-        <td style="background-color: #00000000;">查无此人</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">谁最贱</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #D04617;">100</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">谁最丑</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #D04617;">100</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">谁最穷</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #D04617;">100</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">谁最土</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #D04617;">100</td>
-    </tr>
-    <tr>
-        <td style="background-color: #00000000;">谁最苦</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #00000000;">0</td>
-        <td style="background-color: #D04617;">100</td>
-    </tr>
-</table>
+|     | 响中某物理老师        | 响中某英语教师               | 胡蓉       |
+|--------|------------|------------------|----------|
+| 任教科目   | 物理         | 英语               | 英语       |
+| 籍贯     | 山东日照       | 江苏盐城             | 安徽淮北     |
+| 学历     | 本科         | 本科               | 本科       |
+| 性别     | 女✅          | 女✅                | 类人       |
+| 职称     | 高级✅         | 一级✔️               | 一级✔️       |
+| 毕业院校   | 苏州科技大学✔️     | 南京师范大学✅           | 淮北师范大学   |
+| 交通方式   | 大众✔️         | 凯迪拉克✅             | 电瓶车      |
+| 手机品牌   | iphone14   | iphone17+华为purax✅ | 华为pura70✔️ |
+| 电脑品牌   | 联想         | 苹果✅               | 杂牌       |
+| 预估年收入  | 35+✅        | 20+✔️              | 18+      |
+| 任教最好班型 | 创新班✅        | 小班✔️               | 强化班      |
+| 担任最高职务 | 培优部物理组组长✅   | 高一英语组组长✔️          | 班主任      |
+| 最高荣誉称号 | 江苏省优秀教师✅    | 盐城市英语教学能手✔️        | 响中英语骨干教师 |
+| 第二荣誉称号 | 盐城市物理教学能手✅  | 响中英语骨干教师✔️         | 无        |
+| 第三荣誉称号 | 盐城市四好教师代表✅  | 响中教科先进工作者✔️        | 无        |
+| 第四荣誉称号 | 响水县物理学科带头人✅ | 无                | 无        |
+| 网络影响力  | 多个本人词条✅     | 百度可查✔️             | 全国可飞     |
+| 特长     | 教学✅         | 教学               | 胡说八道     |
+| 学生评价   | A+✅         | A✔️                | E-       |
+| 家长评价   | 响中物理第一✅     | 责任心强✔️             | 查无此人     |
+| 谁最贱    | 0          | 0                | 100✅      |
+| 谁最丑    | 0          | 0                | 100✅      |
+| 谁最穷    | 0          | 0                | 100✅      |
+| 谁最土    | 0          | 0                | 100✅      |
+| 谁最苦    | 0          | 0                | 100✅      |
+
